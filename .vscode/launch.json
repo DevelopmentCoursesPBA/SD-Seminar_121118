@@ -8,8 +8,8 @@
             "server": "http://localhost",
             "serverInstance": "BC130",
             "authentication": "Windows",
-            "startupObjectId": 50149,
-            "startupObjectType": "Page",
+            //"startupObjectId": 50149,
+            //"startupObjectType": "Page",
             "breakOnError": true,
             "port": 7049,
             "schemaUpdateMode": "Recreate"
