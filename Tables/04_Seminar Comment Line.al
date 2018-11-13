@@ -47,5 +47,9 @@ table 50104 "CSD Seminar Comment Line"
         {
             Clustered = true;
         }
+        key(Key2;Date)
+        {
+            
+        }
     }
 }
