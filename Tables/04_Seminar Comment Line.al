@@ -49,7 +49,7 @@ table 50104 "CSD Seminar Comment Line"
         }
         key(Key2;Date)
         {
-            
+
         }
     }
 }
